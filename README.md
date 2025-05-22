@@ -1,6 +1,6 @@
 # **Марија Јанческа 233067**
 
-2. Control flow graph:
+## 2. Control flow graph:
 
 ![CFG](https://github.com/user-attachments/assets/48c7dba7-a03b-44cb-8bc9-757cdf3c79eb)
 
