@@ -2,7 +2,7 @@
 
 ## 2. Control flow graph:
 
-![CFG](https://github.com/user-attachments/assets/48c7dba7-a03b-44cb-8bc9-757cdf3c79eb)
+![CFG](https://github.com/user-attachments/assets/b212f4ce-5773-411f-b7b3-c748693c22db)
 
 
 ## 3. Цикломатска комплексност на графот
