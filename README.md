@@ -17,5 +17,7 @@
 
 ## 4. Тест случаи според Every Statement критериумот
       
-![image](https://github.com/user-attachments/assets/29d18635-4c38-4d08-90a4-ba9c6a3b4969)
+![image](https://github.com/user-attachments/assets/e5c27f7c-0cd9-4aef-be5a-7028e1adc260)
+
+
 
