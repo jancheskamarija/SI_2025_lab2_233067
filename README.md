@@ -70,6 +70,7 @@
 ## 5. Тест случаи според Multiple Condition критериумот
 _За if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10)_
 Тест случаите ги пронајдов со помош на lazy evaluation. Поради тоа што условот е со OR, доволно е еден дел од условот да е true при што сеедно е дали другите  се true или false (се означуваат со X) бидејќи целиот услов е true . **Па на овој начин донесов заклучок дека минималниот број на тест слуачаи за да се посигне Multiple Condition критериумот е 4.**
+
 I: T || X | X  ---------->   item.getPrice() > 300 || item.getDiscount()  <= 0 || item.getQuantity() <= 10 условот е T
          
 II: F | T | X  ---------->   item.getPrice() <= 300 || item.getDiscount() > 0 || item.getQuantity() > 10 може и item.getQuantity() <= 10 условот е T
