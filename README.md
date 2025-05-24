@@ -16,8 +16,9 @@
    Цикломатската комплексност изнесува 9.
 
 ## 4. Тест случаи според Every Statement критериумот
-      
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/60dc0d2d-71c7-4df2-ba0d-d79f05df7b82)
+
 
 
 Според CFG може да се забележи дека бројот на минимални тестови за Every Statement критериумот е 5, бидејќи има 5 ребра што излегуваат од јазелот 27.
