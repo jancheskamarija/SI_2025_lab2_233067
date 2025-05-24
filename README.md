@@ -94,12 +94,12 @@ double expected_test4 = 50 * 3; // 150**
 
  **Услов:** if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10)
  
-   I: T || X || X
+I: T || X | X
          
-    II: F || T || X
-         
-   III: F || F || T
+II: F | T | X
+
+III: F || F || T
          
  IV: F || F || F**
 
-Според оваа табела ги напишав горенаведените тест случаи со кои се постигнува овој критериум.
+
